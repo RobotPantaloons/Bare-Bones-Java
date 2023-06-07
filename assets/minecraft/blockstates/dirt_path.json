@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-            { "model": "block/grass_path" }
+            { "model": "block/dirt_path" }
         ]
     }
 }
