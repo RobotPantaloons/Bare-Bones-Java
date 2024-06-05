@@ -1,6 +1,9 @@
 {
-    "variants": {
-        "normal": 
-            { "model": "dirt" }
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dirt"
+      }
+    ]
+  }
 }

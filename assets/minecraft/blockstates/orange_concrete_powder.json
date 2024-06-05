@@ -1,6 +1,9 @@
 {
-    "variants": {
-        "normal": 
-            { "model": "orange_concrete_powder" }
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/orange_concrete_powder"
+      }
+    ]
+  }
 }

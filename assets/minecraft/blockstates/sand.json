@@ -1,6 +1,9 @@
 {
-    "variants": {
-        "normal": 
-            { "model": "sand" }
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sand"
+      }
+    ]
+  }
 }

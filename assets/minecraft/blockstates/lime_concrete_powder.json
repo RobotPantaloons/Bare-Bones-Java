@@ -1,6 +1,9 @@
 {
-    "variants": {
-        "normal": 
-            { "model": "lime_concrete_powder" }
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/lime_concrete_powder"
+      }
+    ]
+  }
 }

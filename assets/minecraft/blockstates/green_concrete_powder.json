@@ -1,6 +1,9 @@
 {
-    "variants": {
-        "normal": 
-            { "model": "green_concrete_powder" }
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/green_concrete_powder"
+      }
+    ]
+  }
 }
