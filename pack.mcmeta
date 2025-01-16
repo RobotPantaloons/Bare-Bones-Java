@@ -1,6 +1,19 @@
 {
   "pack": {
-    "pack_format": 47,
-    "description": "Simplify your world! 25w02a"
+    "pack_format": 46,
+    "supported_formats": [46, 48],
+    "description": "Simplify your world!"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_25w02a",
+        "formats": [47, 47]
+      },
+      {
+        "directory": "overlay_25w03a",
+        "formats": [48, 48]
+      }
+    ]
   }
 }
